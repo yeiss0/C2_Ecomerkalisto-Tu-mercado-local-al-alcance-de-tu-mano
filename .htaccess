@@ -1,0 +1,14 @@
+RewriteEngine On
+
+# 1. Bloquear acceso a archivos ocultos y sensibles (.env, .git, etc.)
+<FilesMatch "^\.|\.(env|log|sql|md|json)$">
+    Require all denied
+</FilesMatch>
+
+# 2. Deshabilitar listado de directorios
+Options -Indexes
+
+# 3. Enrutamiento MVC
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*)$ index.php [QSA,L]

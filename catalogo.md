@@ -1,0 +1,515 @@
+# Catálogo Completo de Merkalisto
+
+**Total de productos:** 501
+
+## Aseo Hogar (68)
+- Adaptador de Corriente (2 a 3 patas) - **$2.200**
+- Alcohol Antiséptico (Envase 500ml) - **$6.500**
+- Alcohol Glicerinado (Gel antibacterial 500ml) - **$9.500**
+- Almidón en Spray (Para planchado fácil) - **$14.200**
+- Ambientador Glade - **$10.500**
+- Ambientador Glade Aerosol (Paraíso Azul/Lavanda) - **$14.500**
+- Ambientador Glade Toque (Aparato + Repuesto) - **$28.900**
+- Axion líquido (400ml) - **$6.800**
+- Baterías Energizer 9V (Para detectores de humo/juguetes) - **$24.900**
+- Baterías Energizer AAA (Paquete x2) - **$12.800**
+- Blanqueador Clorox Ropa Color (Sin cloro) - **$13.800**
+- Bolsas basura (Rollo x10) - **$4.500**
+- Bolsas para Papelera de Baño (Pequeñas) - **$5.200**
+- Bombillo LED (Luz Cálida 9W) - **$7.800**
+- Bombillo LED 9W (Marca General Electric/Sylvania) - **$8.200**
+- Canastilla Pato (Para el borde del inodoro) - **$9.500**
+- Candado Yale (Pequeño) - **$18.900**
+- Cinta Aislante (Negra) - **$3.500**
+- Cinta de Embalaje (Ancha) - **$5.500**
+- Cinta de Enmascarar (Delgada) - **$3.800**
+- Crema para Limpiar Estufas (Cif Crema) - **$11.900**
+- Desengrasante Brasso (Para estufas) - **$14.500**
+- Desinfectante Binner (Pisos Laminados/Madera) - **$19.200**
+- Desinfectante Lysoform Aerosol (360ml) - **$19.800**
+- Desinfectante de Verduras y Frutas (Frasco) - **$8.500**
+- Detergente Líquido Perwoll Renew (Negro/Color) - **$34.900**
+- Eliminador de Olores para Mascotas (Binner) - **$17.800**
+- Esponja Salvauñas Scotch-Brite (x2 unidades) - **$6.500**
+- Fabuloso (Limpieza 1L) - **$5.800**
+- Fibra Negra Scotch-Brite (Uso pesado) - **$3.200**
+- Fósforos El Rey - **$500**
+- Guantes Vileda (Tallas S. M. L) - **$8.200**
+- Harpic Baños (Remueve sarro y manchas) - **$11.500**
+- Jabón Axion Crema (450g) - **$7.200**
+- Jabón Puro - **$2.900**
+- Jabón Rey (Barra) - **$3.200**
+- Jabón de Coco Varela (Barra para delicados) - **$4.500**
+- Jabón en Barra Vanish (Para cuellos y puños) - **$6.200**
+- Limpiador de Juntas (Para baldosas - Frasco) - **$12.500**
+- Limpiador de Pisos Poett (Diferentes aromas) - **$5.500**
+- Limpiavidrios Windex (Gatillo 500ml) - **$13.500**
+- Limpiavidrios Windex (Repuesto bolsa) - **$8.900**
+- Lustramuebles - **$11.500**
+- Límpido (Original) - **$4.200**
+- Mr. Músculo Vidrios - **$13.900**
+- Multitoma Eléctrica (Simple) - **$15.500**
+- Papel Higiénico Scott - **$8.500**
+- Pastillas para Tanque Pato (Azul/Verde) - **$6.400**
+- Paño de Microfibra Vileda - **$6.900**
+- Pegante Instantáneo (Pega Loka 3g) - **$4.500**
+- Pilas AA (Par) - **$6.500**
+- Pilas Duracell AA (x2) - **$12.500**
+- Pilas Energizer - **$11.800**
+- Plumeros para polvo - **$9.500**
+- Puntillas (Paquete pequeño variado) - **$2.500**
+- Quitamanchas Vanish Powergel (Pre-tratamiento) - **$19.500**
+- Raid Insecticida - **$17.900**
+- Repuesto de Trapero (Hilos de algodón) - **$12.400**
+- Servilletas Familia - **$3.200**
+- Soda Cáustica (Para destapar cañerías) - **$7.500**
+- Suavitel (800ml) - **$11.500**
+- Suavizante Comfort Concentrado (Bolsa) - **$16.500**
+- Super Glue / Pega Loka - **$4.200**
+- Trapero de Microfibra (Mopa completa) - **$22.500**
+- Vanish Blanco Total (Para ropa blanca) - **$25.500**
+- Vanish Oxi Action Multipoder (Pote 450g) - **$26.900**
+- Varsol Ecológico (Sin olor - Botella) - **$10.800**
+- Velas (Paquete x8) - **$4.500**
+
+## Bebidas y Licores (103)
+- Agua Cristal (Bolsa 6 Litros) - **$8.200**
+- Agua Cristal (Botella 600ml) - **$2.400**
+- Agua Cristal (Botellón 5 Litros) - **$10.900**
+- Agua Cristal (Sin gas) - **$2.500**
+- Agua Mineral (1.5L) - **$2.500**
+- Agua con gas Bretaña (Botella vidrio 300ml) - **$2.500**
+- Agua con gas Bretaña (Litro) - **$3.800**
+- Agua embotellada (600ml) - **$1.800**
+- Aguardiente Amarillo de Manzanares (750ml) - **$68.000**
+- Aguardiente Antioqueño (Media - 375ml) - **$29.900**
+- Aguardiente Líder - 750ml - **$49.900**
+- Aguardiente Néctar Club (Media - 375ml) - **$31.200**
+- Alka-Seltzer (Sobre x2) - **$2.200**
+- Cerveza BBC (Cajicá) - **$7.500**
+- Cerveza Budweiser - **$3.800**
+- Cerveza Club Colombia (Negra) - **$4.100**
+- Cerveza Corona (Importada) - **$6.200**
+- Cerveza Heineken - **$5.800**
+- Cerveza Poker (Lata 330ml) - **$3.300**
+- Cerveza Águila (Cero) - **$3.100**
+- Champaña Moët & Chandon (Brut Imperial) - **$350.000**
+- Coca-Cola Original (1.5 Litros) - **$5.100**
+- Coca-Cola Original (2.5 Litros - Retornable) - **$5.500**
+- Coca-Cola Original (Botella 400ml) - **$2.800**
+- Coca-Cola Original (Botella 600ml -  - **$3.600**
+- Coca-Cola Original (Lata 330ml) - **$3.200**
+- Coca-Cola Original (Mini lata 235ml) - **$2.200**
+- Coca-Cola Original (Sabor Original - 3 Litros) - **$10.200**
+- Coca-Cola Sin Azúcar (1.5 Litros) - **$4.900**
+- Coca-Cola Sin Azúcar (1.5L) - **$4.900**
+- Coca-Cola Sin Azúcar (3 Litros) - **$9.500**
+- Coca-Cola Sin Azúcar (Botella 600ml) - **$3.300**
+- Coca-Cola Sin Azúcar (Lata 330ml) - **$3.000**
+- Colombiana (La Nuestra 1.5L) - **$4.500**
+- Espumoso J.P. Chenet (Ice Edition) - **$65.000**
+- Gaseosa Colombiana (1.5 Litros) - **$4.400**
+- Gaseosa Colombiana (La Nuestra - 3 Litros) - **$8.900**
+- Gaseosa Colombiana (Lata 330ml) - **$2.900**
+- Gaseosa Cuatro (Lata 330ml) - **$3.000**
+- Gaseosa Cuatro (Toronja - 1.5 Litros) - **$4.500**
+- Gaseosa Cuatro (Toronja) - **$4.200**
+- Gaseosa Manzana Postobón (1.5 Litros) - **$4.400**
+- Gaseosa Manzana Postobón (3 Litros) - **$8.900**
+- Gaseosa Manzana Postobón (Botella 600ml) - **$3.100**
+- Gaseosa Manzana Postobón (Lata 330ml) - **$2.900**
+- Gaseosa Naranja Postobón (1.5 Litros) - **$4.100**
+- Gaseosa Pepsi (1.5 Litros) - **$4.100**
+- Gaseosa Pepsi (3 Litros) - **$8.500**
+- Gaseosa Sprite (1.5 Litros) - **$4.600**
+- Gaseosa Sprite (Lata 330ml) - **$3.000**
+- Gaseosa Uva Postobón (1.5 Litros) - **$4.100**
+- Ginebra Tanqueray (750ml) - **$115.000**
+- Ginger Ale Canada Dry (Lata) - **$3.500**
+- Jugo Hit (Lulo/Mora/Mango 500ml) - **$3.100**
+- Jugo Hit Fruta Tropical (Botella 500ml) - **$3.100**
+- Jugo Hit Lulo (Botella 1.5L) - **$4.900**
+- Jugo Hit Lulo (Botella 237ml - Vidrio) - **$2.400**
+- Jugo Hit Lulo (Botella 500ml) - **$3.100**
+- Jugo Hit Lulo (Cajita 200ml - Tetrabrik) - **$1.900**
+- Jugo Hit Mango (Botella 1.5L) - **$4.900**
+- Jugo Hit Mango (Botella 500ml) - **$3.100**
+- Jugo Hit Mora (Botella 500ml) - **$3.100**
+- Jugo de Tomate El Ternero - **$7.200**
+- Jugos Hit (Caja 1L) - **$4.200**
+- Monster Energy - **$9.200**
+- Mr. Tea (Limón/Durazno) - **$3.200**
+- Pony Malta (Botella 1 Litro) - **$5.200**
+- Pony Malta (Botella 330ml) - **$2.600**
+- Pony Malta (Lata 330ml) - **$2.800**
+- Pony Malta (Mini Pony 200ml) - **$1.800**
+- Postobón (Manzana/Naranja/Uva 1.5L) - **$4.200**
+- Red Bull - **$8.900**
+- Ron Medellín (Añejo) - 750ml - **$61.000**
+- Ron Medellín Añejo (750ml) - **$64.500**
+- Ron SantaFe (Añejo) - 750ml - **$59.000**
+- Ron Viejo de Caldas (5 años - Juan de la Cruz) - 750ml - **$74.900**
+- Ron Viejo de Caldas Juan de la Cruz (5 años - 750ml) - **$78.900**
+- Ron Zacapa Centenario (23 años - Premium) - **$285.000**
+- Soda Clausen (Botella vidrio) - **$3.200**
+- Soda Schweppes (Lata 330ml) - **$3.500**
+- Sprite (1.5L) - **$4.400**
+- Tampico (Botella 500ml) - **$2.800**
+- Tampico (Galón 3.78L) - **$14.500**
+- Tequila Don Julio Blanco - **$210.000**
+- Tequila José Cuervo Especial (Reposado) - **$95.000**
+- Té Hatsu - **$6.500**
+- Té en bolsas (Caja x20) - **$5.500**
+- Té helado Mr. Tea (1.5L) - **$4.500**
+- Tónica Canada Dry (Lata) - **$3.600**
+- Vino Blanco JP Chenet - **$48.500**
+- Vino Cariñoso (Manzana/Durazno) - **$24.900**
+- Vino Gato Negro (Merlot) - **$42.900**
+- Vino Rosado Frontera - **$42.000**
+- Vino Sansón (Vino quinado) - **$36.500**
+- Vino Santa Carolina - **$45.500**
+- Vino Tinto Casillero del Diablo (Cabernet Sauvignon) - **$56.900**
+- Vive 100 - **$2.500**
+- Vodka Absolut (Original 750ml) - **$89.900**
+- Vodka Smirnoff (750ml) - **$62.000**
+- Whisky Buchanan's (Deluxe 12 años - 750ml) - **$158.000**
+- Whisky Johnnie Walker Black Label - **$142.000**
+- Whisky Johnnie Walker Red Label - **$82.500**
+- Whisky Old Parr (12 años - 750ml) - **$165.000**
+
+## Cuidado Personal (80)
+- Aceite Johnson's Baby (200ml) - **$18.200**
+- Advil Max (Caja x10 cápsulas) - **$18.200**
+- Agua Micelar Garnier (400ml) - **$32.900**
+- Algodón Familia (Bolsa 50g) - **$3.800**
+- Bloqueador Solar Nivea Sun - **$48.900**
+- Bloqueador Solar Nivea Sun SPF 50 (125ml) - **$49.500**
+- Cepillo Dental Colgate Triple Acción (Pack x2) - **$14.800**
+- Cepillo Dental Oral-B Indicator (Unidad) - **$7.500**
+- Cepillo Oral-B - **$7.500**
+- Cera Depilatoria (Fría/Caliente) - **$18.500**
+- Cera para Cabello Urban Men - **$24.900**
+- Champú Head & Shoulders (375ml) - **$22.500**
+- Champú Johnson's Baby (Original 400ml) - **$19.500**
+- Champú Pantene - **$21.500**
+- Champú Savital (500ml) - **$18.900**
+- Champú Savital (Botella 550ml) - **$18.900**
+- Champú Savital (Sachet/Sobre 10ml) - **$800**
+- Champú Sedal - **$15.900**
+- Copitos/Hisopos Familia (Paquete x100) - **$4.200**
+- Crema Antipañalitis No. 4 (Tubo grande) - **$22.500**
+- Crema Corporal Lubriderm (Etapa Azul) - **$32.900**
+- Crema Corporal Nivea Milk Nutritiva (400ml) - **$28.900**
+- Crema Dental Colgate Total 12 - **$14.500**
+- Crema Dental Colgate Triple Acción (Pack x3 Unidades) - **$28.500**
+- Crema Dental Colgate Triple Acción (Tubo 150ml - Grande) - **$12.900**
+- Crema Dental Colgate Triple Acción (Tubo 22ml - Viajero) - **$3.500**
+- Crema Dental Colgate Triple Acción (Tubo 75ml) - **$7.800**
+- Crema Dental Sensodyne (Cuidado Original) - **$22.900**
+- Crema Desitin (Tarro azul) - **$34.900**
+- Crema Humectante Lubriderm Etapa Azul (400ml) - **$34.500**
+- Crema Líquida Johnson's Baby - **$17.800**
+- Crema Nivea (Tarro metálico azul) - **$15.500**
+- Crema de Afeitar Gillette (Espuma) - **$16.900**
+- Crema para Manos Neutrogena (Fórmula Noruega) - **$21.000**
+- Cuchilla de Afeitar Gillette Mach 3 (Repuesto x2) - **$32.500**
+- Cuchilla de Afeitar Gillette Prestobarba 3 (Unidad) - **$4.800**
+- Curitas (Caja x10) - **$4.500**
+- Desodorante Yodora - **$5.200**
+- Dolex Forte (Caja x24 tabletas) - **$22.500**
+- Enjuague Bucal Colgate Plax (250ml) - **$15.900**
+- Enjuague Bucal Colgate Plax (500ml) - **$18.900**
+- Enjuague Bucal Listerine (250ml) - **$15.900**
+- Enjuague Bucal Listerine Cool Mint (500ml) - **$26.500**
+- Espuma de Afeitar Gillette Sensitive - **$18.900**
+- Gel Ego - **$6.500**
+- Gel para el Cabello Ego (Frasco grande) - **$12.500**
+- Jabón Dove - **$5.500**
+- Jabón Líquido Dove Nutrición Profunda (250ml) - **$16.500**
+- Jabón Líquido para Manos (Protex/Palmolive) - **$14.500**
+- Jabón Palmolive - **$3.800**
+- Jabón Protex (Barra individual 110g) - **$4.500**
+- Jabón Protex (Barra) - **$4.500**
+- Jabón Protex (Pack x3 barras) - **$12.800**
+- Loción After Shave (Nivea Men) - **$24.500**
+- Lubricante KY Gel - **$22.500**
+- Máquina de Afeitar Gillette Mach 3 (1 mango + 1 repuesto) - **$38.500**
+- Noraver Gripa (Caja x10 cápsulas) - **$15.500**
+- Pañales Huggies Active Sec (Etapa 4) - **$58.500**
+- Pañales Pampers Premium Care - **$65.200**
+- Pañales Winny Sensitive (Etapa 3 - Paquete) - **$54.900**
+- Pañales Winny Sensitive Etapa 5 (Pants) - **$62.900**
+- Pañitos Húmedos Pequeñín (Paquete x80) - **$11.900**
+- Pañitos Pequeñín (x80) - **$11.900**
+- Preservativos Durex (Caja x3) - **$14.900**
+- Preservativos Today (Caja x3) - **$10.500**
+- Prestobarba (Unidad) - **$3.800**
+- Protector Solar Neutrogena Sun Fresh - **$58.200**
+- Protectores diarios (x30) - **$6.800**
+- Repuestos Gillette Mach 3 (Caja x2) - **$32.500**
+- Sal de Frutas Lua (Caja x10 sobres) - **$16.500**
+- Sal de Frutas Lua (Sobre individual) - **$1.800**
+- Sal de Frutas Lua (Sobre) - **$1.800**
+- Seda Dental Colgate (50 metros) - **$11.500**
+- Seda Dental Oral-B (50m) - **$12.500**
+- Talco Mexsana (Frasco mediano) - **$19.500**
+- Talco Mexsana (Pies) - **$18.500**
+- Toallas Higiénicas Nosotras Invisible (x10) - **$6.500**
+- Toallas Nosotras (x10) - **$5.600**
+- Toallitas Húmedas Huggies (Paquete x80) - **$13.500**
+- Vicks VapoRub (Frasco pequeño) - **$9.800**
+
+## Despensa (228)
+- Aceite Oleocali (Bolsa 900ml - Económico) - **$8.800**
+- Aceite Oleocali (Botella 900ml) - **$9.200**
+- Aceite Oleocali (Vegetal 900ml) - **$9.200**
+- Aceite Premier (Botella 900ml) - **$12.500**
+- Aceite Premier (Garrafa 3L) - **$38.900**
+- Aceite Premier (Girasol 900ml) - **$12.500**
+- Aceite de Oliva Betis (250ml) - **$19.500**
+- Aceite de girasol Premier (900ml) - **$9.400**
+- Ajo en Polvo/Pasta El Rey - **$4.200**
+- Albóndigas en Salsa Zenú (Lata) - **$9.200**
+- Arequipe Alpina (220g) - **$6.800**
+- Arequipe Colanta - **$6.400**
+- Arroz Blanco (5kg) - **$22.000**
+- Arroz Diana (Arroba 12.5kg) - **$42.500**
+- Arroz Diana (Bolsa 1kg) - **$3.800**
+- Arroz Diana (Bolsa 5kg) - **$18.200**
+- Arroz Diana (Vitaminado 1kg) - **$4.100**
+- Arroz Florhuila (1kg) - **$3.900**
+- Arroz Roa (Integral 1kg) - **$5.200**
+- Arveja Seca (500g) - **$3.100**
+- Arvejas con Zanahoria San Jorge (Lata) - **$5.200**
+- Atún Alamar - **$7.800**
+- Atún Van Camp's (Aceite/Agua) - **$9.600**
+- Atún Van Camp's (Lomo en Agua - Pack x3) - **$26.900**
+- Atún en aceite (160g) - **$9.200**
+- Atún en agua (160g) - **$9.200**
+- Avena Alpina (Original 200ml) - **$3.400**
+- Avena Alquería (200ml) - **$3.200**
+- Avena Colanta (200ml) - **$3.100**
+- Avena en hojuelas (250g) - **$3.500**
+- Azúcar Incauca (Extrafina 1kg) - **$4.300**
+- Azúcar Manuelita (Blanca 1kg) - **$4.200**
+- Azúcar Morena Incauca (1kg) - **$4.500**
+- Barrilete - **$700**
+- Barritas de Cereal Tosh - **$2.100**
+- Bebida Láctea Regeneris - **$3.900**
+- Bocadillo Celema - **$4.500**
+- Bocadillo Veleño (Caja x12 unidades) - **$14.200**
+- Bom Bom Bum (Fresa/Lulo/Maracuyá) - **$600**
+- Café Colcafé (Granulado 170g) - **$20.500**
+- Café Córdoba (500g) - **$15.800**
+- Café Juan Valdez (Colina/Volcán 250g) - **$24.900**
+- Café La Bastilla (500g) - **$15.900**
+- Café Nescafé (Tradición 170g) - **$21.500**
+- Café Sello Rojo (Molido 500g) - **$16.800**
+- Café instantáneo (170g) - **$18.500**
+- Café Águila Roja (Molido 500g) - **$16.500**
+- Caldo de gallina (x12) - **$6.200**
+- Caldos Knorr (Caja x12) - **$8.200**
+- Caldos de Gallina Maggi (Caja x12) - **$8.400**
+- Cereal Choco Krispis - **$18.500**
+- Cereal Corn Flakes (Caja grande) - **$16.200**
+- Cereal Infantil Nestum (Trigo/Miel) - **$14.500**
+- Cereal Musli / Granola (Bolsa) - **$14.900**
+- Cereal Zucaritas de Kellogg's (Caja) - **$18.500**
+- Champiñones Zenú - **$5.500**
+- Charrasca - **$3.500**
+- Chicharrón americano - **$3.500**
+- Chicles Adams - **$800**
+- Chicles Motitas - **$300**
+- Chicles Trident - **$1.500**
+- Choclitos (Limón) - **$1.800**
+- Choclitos Limón (Paquete Familiar 150g) - **$5.400**
+- Choco Lyke (Polvo 350g) - **$11.500**
+- Chocolate Cruz - **$7.400**
+- Chocolate sin azúcar (Libra) - **$8.400**
+- Chocolatina Jumbo Flow - **$2.600**
+- Chocolisto (Polvo 300g) - **$14.900**
+- Chocoramo (Paquete x5) - **$13.500**
+- Chorizo Antioqueño (x6) - **$12.400**
+- Chupetas Sparkies - **$800**
+- Cinta Pegante Transparente - **$3.500**
+- Coffee Delight - **$200**
+- Color/Comino El Rey (Sobre) - **$1.500**
+- Compota Alpina (Vaso) - **$3.900**
+- Compota Gerber (Diferentes sabores) - **$4.200**
+- Crema de Leche Alquería (200ml) - **$4.500**
+- Detodito (Azul/Rojo) - **$3.900**
+- Detodito Familiar (Rojo/Azul 150g) - **$7.200**
+- Ducales (Taco) - **$5.600**
+- Dulces Bianchi - **$400**
+- Encendedor Bic (Grande) - **$4.500**
+- Festival (Fresa/Choco/Vainilla) - **$1.400**
+- Flan de Leche Alpina - **$3.200**
+- Frijol Bola Roja (500g) - **$6.100**
+- Frijol Cargamanto Aburrá (500g) - **$6.500**
+- Frijoles Antioqueños Zenú (Lata 400g) - **$8.900**
+- Frunas - **$1.000**
+- Fórmula Láctea Enfamil (Tarro) - **$98.500**
+- Galletas Bridge - **$1.300**
+- Galletas Oreo - **$1.800**
+- Gansito Ramo - **$1.800**
+- Garbanzo Aburrá (500g) - **$4.300**
+- Garbanzos (500g) - **$4.200**
+- Gelatina Alpina - **$2.500**
+- Gomas Grissly - **$2.400**
+- Gomas Trululu (Aritos/Casquitos) - **$2.500**
+- Harina Doñarepa (Maíz 1kg) - **$4.600**
+- Harina El Dorado (1kg) - **$3.700**
+- Harina Haz de Oros (Trigo 1kg) - **$3.950**
+- Harina P.A.N. (Blanca 1kg) - **$4.800**
+- Harina P.A.N. (Bulto x10 unidades - Mayorista) - **$46.000**
+- Harina de maíz P.A.N. - **$4.600**
+- Harina de trigo Haz de Oros - **$3.900**
+- Harina hot cakes - **$6.800**
+- Huevos (Unidad) - **$700**
+- Huevos AA Blancos (Panal x30) - **$16.500**
+- Huevos AA Rojos (Panal x30) - **$17.200**
+- Huevos Frescos (Cubeta) - **$16.000**
+- Jamón Dulce Zenú - **$12.900**
+- Jamón Manguera - **$10.500**
+- Jamón Pietrán Bajo en Sodio - **$17.200**
+- Jamón Premium Pietrán - **$18.500**
+- Jamón Sandwichero Rica - **$8.900**
+- Jamón Serrano Pietrán (Pequeño) - **$15.900**
+- Jamón Zenú tajado (250g) - **$11.500**
+- Jamón de Cerdo Zenú (250g) - **$12.500**
+- Jamón de Pavo Pietrán (250g) - **$16.900**
+- Kumis Alpina (Garrafa 1.75L) - **$15.500**
+- Kumis Alpina (Vaso 150g) - **$3.100**
+- Kumis Alpina (Vaso) - **$3.100**
+- Kumis Colanta (Vaso) - **$2.900**
+- Leche Algarra Entera (1.1L) - **$4.200**
+- Leche Alpina Skim (1.1L) - **$4.900**
+- Leche Alquería (Bolsa pequeña 200ml - Lonchera) - **$1.800**
+- Leche Alquería Descremada (1.1L) - **$4.800**
+- Leche Alquería Deslactosada (Bolsa 1.1L) - **$4.800**
+- Leche Alquería Deslactosada (Caja 1L) - **$5.500**
+- Leche Alquería Entera (Bolsa 1.1L) - **$4.500**
+- Leche Alquería Entera (Caja/Tetrapack 1L) - **$5.200**
+- Leche Alquería Entera (Jarra 1.5L) - **$6.800**
+- Leche Alquería Semidescremada (Bolsa 1.1L) - **$4.800**
+- Leche Colanta Deslactosada (1.1L) - **$4.400**
+- Leche Condensada Alpina - **$5.900**
+- Leche Entera 1L - **$4.500**
+- Leche Parmalat Entera (1L) - **$4.300**
+- Leche en Polvo Alpina (800g) - **$32.800**
+- Lentejas (500g) - **$3.400**
+- Lentejas Aburrá (500g) - **$3.400**
+- Lentejas El Castillo (500g) - **$3.200**
+- Maizitos Ramo - **$1.800**
+- Manjar Blanco Totuma - **$8.500**
+- Mantequilla Alpina (125g) - **$7.200**
+- Maní La Especial (Salado/Pasas) - **$2.500**
+- Maní Moto - **$1.600**
+- Margarina Campi (250g) - **$5.400**
+- Mayonesa Fruco (Doypack grande) - **$13.200**
+- Maíz Pira (Palomitas 500g) - **$3.500**
+- Maíz Tierno San Jorge - **$4.900**
+- Maíz dulce en lata (180g) - **$4.600**
+- Mermelada La Constancia - **$5.900**
+- Mezcla de Vegetales (Lata pequeña) - **$4.800**
+- Mezcla para buñuelos - **$4.900**
+- Mezcla para natilla - **$4.800**
+- Mortadela de Pollo Pietrán - **$11.900**
+- Mostaza Fruco - **$5.800**
+- Natuchips (Verde/Madurito) - **$3.200**
+- Nucita - **$1.000**
+- Nuggets de pollo - **$15.900**
+- Pan Artesano Bimbo - **$9.500**
+- Pan Hamburguesa Bimbo - **$7.500**
+- Pan Integral Artesanal - **$6.500**
+- Pan Perro Bimbo - **$7.500**
+- Pan Tajado Comapan - **$5.900**
+- Panela El Trébol (Cuadrada) - **$4.100**
+- Panela Redonda (Unidad) - **$1.200**
+- Papas Margarita (Pollo/Natural/Limón/Onduladas 110g) - **$4.800**
+- Papas Margarita Limón (Paquete Mediano 110g) - **$4.800**
+- Papas Margarita Natural (Paquete Mediano 110g) - **$4.800**
+- Papas Margarita Pollo (Paquete Mediano 110g) - **$4.800**
+- Papas Margarita Pollo (Paquete Mega/Familiar 250g) - **$9.500**
+- Papas Margarita Pollo (Paquete Pequeño 30g) - **$1.900**
+- Papas a la francesa (Kg) - **$12.500**
+- Papel Aluminio (Rollo pequeño) - **$8.900**
+- Pasta Comarrico (500g) - **$3.800**
+- Pasta Doria (Conchitas 500g) - **$4.300**
+- Pasta La Muñeca (Spaghetti 500g) - **$4.100**
+- Pasta corta (500g) - **$4.200**
+- Pasta larga (Spaghetti 500g) - **$4.200**
+- Pegante Instantáneo Pega Loka - **$4.200**
+- Película de Plástico (Vinipel) - **$9.200**
+- Platanitos Natuchips - **$2.800**
+- Platanitos Natuchips (Paquete Familiar) - **$6.200**
+- Platos Desechables (Paquete x20) - **$6.500**
+- Ponqué Gala (Vainilla/Vino/Limón) - **$2.100**
+- Pudín Chocolate Alpina - **$3.200**
+- Quesito Antioqueño Colanta - **$6.200**
+- Queso Campesino De la Cuesta - **$14.200**
+- Queso Costeño (Libra) - **$12.500**
+- Queso Crema Colanta - **$7.100**
+- Queso Doble Crema Tajado Zenú (250g) - **$10.200**
+- Queso Mozzarella Tajado Colanta - **$10.100**
+- Queso Parmesano Alpina - **$8.900**
+- Queso Pera - **$6.500**
+- Queso Philadelphia - **$14.500**
+- Queso Sabanero (Tajado) - **$9.900**
+- Sal Refisal (Parrillera) - **$4.800**
+- Salchichas Ranchera (Paquete x5 unidades) - **$9.800**
+- Salchichas Viena (Lata larga) - **$7.500**
+- Salchichas Zenú (Lata grande 10 unidades) - **$11.200**
+- Salchichas perro (x10) - **$8.900**
+- Salchichón Tradicional Rica - **$9.200**
+- Salsa Negra (Palma o San Jorge) - **$4.800**
+- Salsa Rosada Fruco - **$9.500**
+- Salsa de Soya - **$5.200**
+- Salsa de Tomate Fruco (Doypack grande) - **$12.500**
+- Salsa para Pasta San Jorge - **$6.900**
+- Saltín Noel (Integral) - **$5.200**
+- Saltín Noel (Taco) - **$4.900**
+- Sardinas Isabel - **$6.500**
+- Suero Costeño Colanta - **$5.400**
+- Tocineta ahumada (250g) - **$14.500**
+- Todo Rico (Original/BBQ) - **$3.800**
+- Tosh (Miel/Ajonjolí) - **$4.200**
+- Tostadas Haz de Oros - **$5.200**
+- Tostadas Integrales - **$5.900**
+- Tostadas Susanita - **$6.500**
+- Triguisar (Sobre) - **$1.800**
+- Vasos Desechables (Paquete x20) - **$4.200**
+- Vinagre Blanco (San Jorge) - **$3.500**
+- Yogo Yogo Alpina (Vaso) - **$2.200**
+- Yogur Alpina Fresa (Bolsa 1L) - **$8.900**
+- Yogur Alpina Fresa (Garrafa 1.75L) - **$14.900**
+- Yogur Alpina Fresa (Vaso 150g) - **$3.200**
+- Yogur Alpina Frutos Rojos - **$3.500**
+- Yogur Colanta Guanábana - **$7.800**
+- Yogur Griego San Martín - **$5.800**
+- Yogur Natural Griego - **$3.500**
+
+## Mascotas (22)
+- Alimento Dogourmet (Kg) - **$9.500**
+- Arena para Gatos Clean Cat (Bulto 5kg) - **$21.900**
+- Arena para Gatos Fresh Step (Bulto 5kg) - **$34.500**
+- Concentrado Cat Chow (Bolsa 1.5kg) - **$24.900**
+- Concentrado Cat Chow (Defensa Plus 1.5kg) - **$28.200**
+- Concentrado Chunky Adultos (Pollo - Bolsa 2kg) - **$28.900**
+- Concentrado Chunky Cachorros (Bolsa 2kg) - **$31.500**
+- Concentrado Dog Chow Adultos (Bolsa 2kg) - **$34.200**
+- Concentrado Dog Chow Adultos (Bolsa 4kg) - **$64.900**
+- Concentrado Gatasy (Bolsa 1.5kg) - **$17.500**
+- Concentrado Mirringo (Bolsa 1.5kg) - **$18.900**
+- Concentrado Mirringo (Bolsa 3kg) - **$35.500**
+- Concentrado Nutre Can (Adultos - Bolsa 2kg) - **$26.800**
+- Concentrado Pedigree Adultos (Bolsa 2kg) - **$32.500**
+- Concentrado Ringo (Bolsa 2kg - Económico) - **$19.500**
+- Concentrado Whiskas Adultos (Bolsa 1.5kg) - **$26.900**
+- Snacks Dogourmet (Galletas para perro) - **$6.500**
+- Sobres Chunky (Comida húmeda Cordero/Res) - **$3.200**
+- Sobres Felix (Comida húmeda - Diferentes sabores) - **$3.600**
+- Sobres Pedigree (Comida húmeda Pollo/Res 100g) - **$3.600**
+- Sobres Whiskas (Comida húmeda Pescado/Salmón) - **$3.800**
+- Sobres de comida húmeda Whiskas (Gatos) - **$3.500**
+
