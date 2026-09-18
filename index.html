@@ -1,0 +1,214 @@
+<!DOCTYPE html>
+<html lang="es-CO">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="description"
+      content="Inversiones Merkalisto — supermercado en Villa de San Diego de Ubaté. Catálogo, compras y asistente virtual."
+    />
+    <title>Inversiones Merkalisto | Ubaté</title>
+    <link rel="stylesheet" href="css/styles.css" />
+    <!--
+      Módulos ES: abrir con servidor local (Live Server, npx serve, etc.).
+      API: ver .env.example — clave Gemini de Google AI Studio.
+    -->
+  </head>
+  <body>
+    <div class="app-layout">
+      <aside class="sidebar" aria-label="Menú principal">
+        <div class="sidebar__brand">
+          <div class="sidebar__logo" aria-hidden="true">M</div>
+          <div>
+            <p class="sidebar__title">Inversiones Merkalisto</p>
+            <p class="sidebar__subtitle">Villa de San Diego de Ubaté</p>
+          </div>
+        </div>
+        <nav class="sidebar-nav">
+          <a href="#inicio" data-target="inicio">Inicio</a>
+          <a href="#propuesta" data-target="propuesta">Propuesta de valor</a>
+          <a href="#catalogo" data-target="catalogo">Líneas de catálogo</a>
+          <a href="#compra" data-target="compra">Optimización de compra</a>
+          <a href="#perfil" data-target="perfil">Perfil del desarrollador</a>
+        </nav>
+        <div class="sidebar__footer">
+          Estructura modular lista para escalar: nuevas secciones, integración de carrito o backoffice.
+        </div>
+      </aside>
+
+      <div class="main">
+        <header class="top-bar">
+          <span class="badge">COP · Calidad local</span>
+        </header>
+
+        <section id="inicio" data-section class="hero">
+          <h1>Tu mercado de confianza en Ubaté</h1>
+          <p>
+            Merkalisto conecta productos frescos de la región, abarrotes, lácteos y cuidado del hogar con
+            un recorrido de compra claro. Pensado para familias y negocios de Villa de San Diego de Ubaté.
+          </p>
+          <div class="hero__actions">
+            <a class="btn btn--white" href="#catalogo">Ver líneas de catálogo</a>
+            <button type="button" class="btn btn--outline" id="hero-open-chat">
+              Hablar con el asistente
+            </button>
+          </div>
+        </section>
+
+        <section id="propuesta" data-section>
+          <div class="section-head">
+            <h2>Propuesta de valor</h2>
+            <span>Experiencia de supermercado moderna</span>
+          </div>
+          <div class="card-grid">
+            <article class="card">
+              <h3>Frescura regional</h3>
+              <p>Frutas, verduras y lácteos con énfasis en proveedores cercanos a Ubaté y rotación controlada.</p>
+              <span class="card__tag">Origen</span>
+            </article>
+            <article class="card">
+              <h3>Precios transparentes</h3>
+              <p>Catálogo planificado en COP con SKU para ubicar rápido en góndola y en futura tienda online.</p>
+              <span class="card__tag">Claridad</span>
+            </article>
+            <article class="card">
+              <h3>Asistente de compras</h3>
+              <p>Consulta productos y pedidos con el chat Merkalisto (Gemini), alineado al catálogo publicado.</p>
+              <span class="card__tag">IA</span>
+            </article>
+          </div>
+        </section>
+
+        <section id="catalogo" data-section>
+          <div class="section-head">
+            <h2>Líneas de catálogo</h2>
+            <span>Detalle en plan_merkalisto.md</span>
+          </div>
+          <div class="card-grid">
+            <article class="card">
+              <h3>Frutas y verduras</h3>
+              <p>Papa criolla, tomates, lulos, curuba, hierbas y más — referencia de precios en COP en el plan.</p>
+              <span class="card__tag">FV</span>
+            </article>
+            <article class="card">
+              <h3>Abarrotes y despensa</h3>
+              <p>Granos, aceites, harinas, café y no perecederos para la despensa diaria.</p>
+              <span class="card__tag">AB</span>
+            </article>
+            <article class="card">
+              <h3>Lácteos y embutidos</h3>
+              <p>Leche, quesos, huevos y embutidos con foco en calidad y marcas locales.</p>
+              <span class="card__tag">LC</span>
+            </article>
+            <article class="card">
+              <h3>Limpieza y hogar</h3>
+              <p>Detergentes, desinfectantes, papel y artículos para el cuidado del hogar.</p>
+              <span class="card__tag">LH</span>
+            </article>
+            <article class="card">
+              <h3>Cuidado personal</h3>
+              <p>Aseo, higiene oral, cuidado de la piel y complementos de bienestar.</p>
+              <span class="card__tag">CP</span>
+            </article>
+          </div>
+          <p class="catalog-note">
+            El archivo <strong>plan_merkalisto.md</strong> incluye tablas con precios orientativos en pesos colombianos
+            y recomendaciones para optimizar rutas de compra y combos locales.
+          </p>
+        </section>
+
+        <section id="compra" data-section>
+          <div class="section-head">
+            <h2>Optimización del proceso de compra</h2>
+            <span>En tienda y digital</span>
+          </div>
+          <div class="card-grid">
+            <article class="card">
+              <h3>Recorrido lógico</h3>
+              <p>Señalética frío → fresco → seco → caja reduce tiempo y olvidos en el carrito.</p>
+              <span class="card__tag">Ruta</span>
+            </article>
+            <article class="card">
+              <h3>Combos y paquetes</h3>
+              <p>Desayuno regional o olla de carne con precio fijo aumentan ticket medio con valor percibido.</p>
+              <span class="card__tag">Oferta</span>
+            </article>
+            <article class="card">
+              <h3>Preparación digital</h3>
+              <p>Lista desde el asistente o la web antes de visitar la tienda en Ubaté.</p>
+              <span class="card__tag">Lista</span>
+            </article>
+          </div>
+        </section>
+
+        <section id="perfil" data-section>
+          <div class="section-head">
+            <h2>Perfil del desarrollador</h2>
+            <span>Arquitectura y producto</span>
+          </div>
+          <div class="profile">
+            <div class="profile__avatar" aria-hidden="true">Tu</div>
+            <div>
+              <h2>Tu nombre — Ingeniero(a) de Sistemas y Computación</h2>
+              <p class="profile__role">
+                Diseño de software, arquitectura web y experiencia de usuario orientada a comercio electrónico.
+              </p>
+              <ul>
+                <li>Construcción de interfaces escalables con HTML5, CSS3 y JavaScript modular (ES modules).</li>
+                <li>Integración de servicios de IA (Google AI Studio / Gemini) con instrucciones de sistema acotadas al dominio del negocio.</li>
+                <li>Modelado de catálogos, SKUs y flujos de compra para retail y last-mile en contexto municipal.</li>
+                <li>Prácticas de seguridad: claves de API solo en entorno servidor o pruebas locales; en esta demo el chat permite pegar la clave para desarrollo.</li>
+              </ul>
+              <p class="catalog-note" style="margin-top: 1rem">
+                Personaliza este bloque con tu CV, enlaces a GitHub o LinkedIn y proyectos reales.
+              </p>
+            </div>
+          </div>
+        </section>
+      </div>
+    </div>
+
+    <button
+      type="button"
+      class="chat-toggle"
+      id="chat-toggle"
+      aria-label="Abrir asistente de compras"
+      aria-expanded="false"
+    >
+      💬
+    </button>
+
+    <div class="chat-panel" id="chat-panel" hidden aria-hidden="true">
+      <div class="chat-panel__head">
+        <h3>Asistente de Compras Merkalisto</h3>
+        <button type="button" class="chat-panel__close" id="chat-close" aria-label="Cerrar chat">
+          ×
+        </button>
+      </div>
+      <div class="chat-panel__key">
+        <label for="gemini-key-input">API key (Google AI Studio)</label>
+        <input
+          id="gemini-key-input"
+          type="password"
+          autocomplete="off"
+          placeholder="Pega tu clave Gemini"
+        />
+        <p class="chat-panel__key-hint" id="chat-key-hint" hidden>
+          Necesitas una clave para consultar el modelo. Crea una en aistudio.google.com/apikey
+        </p>
+      </div>
+      <div id="chat-messages" role="log" aria-live="polite"></div>
+      <form id="chat-form">
+        <input id="chat-input" type="text" placeholder="Ej.: ¿Qué frutas recomiendas hoy?" autocomplete="off" />
+        <button type="submit">Enviar</button>
+      </form>
+    </div>
+
+    <script type="module" src="js/main.js"></script>
+    <script>
+      document.getElementById("hero-open-chat")?.addEventListener("click", () => {
+        document.getElementById("chat-toggle")?.click();
+      });
+    </script>
+  </body>
+</html>
